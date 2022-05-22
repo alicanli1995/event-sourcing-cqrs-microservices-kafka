@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="account-domain" />
+        <module name="account-cmd" />
+        <module name="account-query" />
+        <module name="cqrs-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account-cmd" target="17" />
+      <module name="account-domain" target="17" />
+      <module name="account-query" target="17" />
+      <module name="bank-management" target="17" />
+      <module name="cqrs-core" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account-cmd" options="-parameters" />
+      <module name="account-domain" options="-parameters" />
+      <module name="account-query" options="-parameters" />
+      <module name="cqrs-core" options="-parameters" />
+    </option>
+  </component>
+</project>

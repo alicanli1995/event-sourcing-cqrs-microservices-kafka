@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-management/account-cmd/account-cmd.iml" filepath="$PROJECT_DIR$/bank-management/account-cmd/account-cmd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-management/account-domain/account-domain.iml" filepath="$PROJECT_DIR$/bank-management/account-domain/account-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-management/account-query/account-query.iml" filepath="$PROJECT_DIR$/bank-management/account-query/account-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-management/bank-management.iml" filepath="$PROJECT_DIR$/bank-management/bank-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqrs-core/cqrs-core.iml" filepath="$PROJECT_DIR$/cqrs-core/cqrs-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/event-sourcing-cqrs-microservices-kafka.iml" filepath="$PROJECT_DIR$/.idea/event-sourcing-cqrs-microservices-kafka.iml" />
+    </modules>
+  </component>
+</project>

@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="img/diagram.jpg" alt="ci" width="700" height="400" class="center"/>
+<img src="img/diagram.jpg" alt="ci" class="center"/>
 </p>
 
 

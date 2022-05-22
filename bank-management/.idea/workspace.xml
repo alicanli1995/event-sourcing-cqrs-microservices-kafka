@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc1cfe9d-3b25-4935-aca9-9851ccd4628e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/src/main/java/com/example/accountcmd/AccountCmdApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/src/test/java/com/example/accountcmd/AccountCmdApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-domain/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-domain/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-domain/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/src/main/java/com/example/accountquery/AccountQueryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/src/test/java/com/example/accountquery/AccountQueryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/src/main/java/com/example/cqrscore/CqrsCoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/src/test/java/com/example/cqrscore/CqrsCoreApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29WYPCFjDwRBB7UiHPJ8MWjmpSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17 (2)",
+    "last_opened_file_path": "C:/Users/Ali/Desktop/event-sourcing-cqrs-microservices-kafka",
+    "settings.editor.selected.configurable": "MTConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountCmdApplication">
+    <configuration name="AccountCmdApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-cmd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.accountcmd.AccountCmdApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDomainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-domain" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.accountdomain.AccountDomainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountQueryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-query" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.accountquery.AccountQueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CqrsCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cqrs-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cqrscore.CqrsCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc1cfe9d-3b25-4935-aca9-9851ccd4628e" name="Changes" comment="" />
+      <created>1653230282190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653230282190</updated>
+      <workItem from="1653230283754" duration="529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
