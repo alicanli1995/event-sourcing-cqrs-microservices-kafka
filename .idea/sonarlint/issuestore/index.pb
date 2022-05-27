@@ -1,8 +1,6 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-‹
-[bank-management/account-cmd/src/main/java/com/example/accountcmd/AccountCmdApplication.java,e\0\e08ed694e7019d431a53053dc50b63ce070a0cc7
 –
 fbank-management/account-cmd/src/main/java/com/example/accountcmd/api/commands/DepositFundsCommand.java,8\1\811c7d1b95ddc12c332cb59e795be1713fb9b8d0
 —

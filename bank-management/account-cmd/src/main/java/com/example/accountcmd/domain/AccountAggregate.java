@@ -6,16 +6,21 @@ import com.example.accountdomain.events.AccountOpenedEvent;
 import com.example.accountdomain.events.FundsDepositedEvent;
 import com.example.accountdomain.events.FundsWithdrawedEvent;
 import com.example.cqrscore.domain.AggregateRoot;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.math.BigDecimal;
 import java.util.Date;
 
 @NoArgsConstructor
+
 public class AccountAggregate extends AggregateRoot {
 
 
     private Boolean isActive;
+    @Getter
+    @Setter
     private BigDecimal balance;
 
     public AccountAggregate(OpenAccountCommand command){

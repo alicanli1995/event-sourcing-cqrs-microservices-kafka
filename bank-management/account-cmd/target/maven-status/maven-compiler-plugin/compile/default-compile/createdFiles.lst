@@ -1,10 +1,12 @@
 com\example\accountcmd\api\commands\WithdrawFundsCommand.class
-com\example\accountcmd\domain\AccountAggregate.class
 com\example\accountcmd\domain\EventStoreRepository.class
 com\example\accountcmd\infrastructure\AccountEventSourcingHandler.class
 com\example\accountcmd\api\commands\CloseAccuntCommand.class
-com\example\accountcmd\infrastructure\AccountCommandDispatcher.class
 com\example\accountcmd\infrastructure\AccountEventStore.class
 com\example\accountcmd\api\commands\DepositFundsCommand.class
 com\example\accountcmd\api\commands\OpenAccountCommand.class
+com\example\accountcmd\domain\AccountAggregate.class
+com\example\accountcmd\infrastructure\AccountCommandDispatcher.class
+com\example\accountcmd\api\commands\CommandHandler.class
 com\example\accountcmd\AccountCmdApplication.class
+com\example\accountcmd\api\commands\AccountCommandHandler.class
