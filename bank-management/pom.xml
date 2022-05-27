@@ -19,7 +19,7 @@
         <module>account-cmd</module>
         <module>account-query</module>
         <module>account-domain</module>
-        <module>cqrs-core</module>
+        <module>../cqrs-core</module>
     </modules>
 
     <properties>

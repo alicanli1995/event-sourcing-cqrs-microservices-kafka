@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\events\EventModel.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\infrastructure\CommandDispatcher.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\domain\AggregateRoot.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\commands\BaseCommand.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\commands\CommandHandler.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\messages\Message.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\infrastructure\EventStore.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\handlers\EventSourcingHandler.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\exception\ConcurrencyException.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\exception\AggregateNotFoundException.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\events\BaseEvent.java

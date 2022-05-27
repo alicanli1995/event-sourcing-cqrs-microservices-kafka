@@ -1,8 +1,0 @@
-com\example\cqrscore\commands\CommandHandler.class
-com\example\cqrscore\messages\Message.class
-com\example\cqrscore\messages\Message$MessageBuilder.class
-com\example\cqrscore\infrastructure\CommandDispatcher.class
-com\example\cqrscore\events\BaseEvent.class
-com\example\cqrscore\events\BaseEvent$BaseEventBuilder.class
-com\example\cqrscore\domain\AggregateRoot.class
-com\example\cqrscore\commands\BaseCommand.class

@@ -3,7 +3,6 @@ package com.example.accountdomain.events;
 import com.example.accountdomain.dto.AccountType;
 import com.example.cqrscore.events.BaseEvent;
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.SuperBuilder;
