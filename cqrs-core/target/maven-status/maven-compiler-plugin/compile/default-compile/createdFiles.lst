@@ -2,6 +2,7 @@ com\example\cqrscore\commands\CommandHandler.class
 com\example\cqrscore\messages\Message.class
 com\example\cqrscore\messages\Message$MessageBuilder.class
 com\example\cqrscore\infrastructure\CommandDispatcher.class
+com\example\cqrscore\queries\BaseQuery.class
 com\example\cqrscore\events\BaseEvent.class
 com\example\cqrscore\events\EventModel$EventModelBuilder.class
 com\example\cqrscore\exception\ConcurrencyException.class
@@ -10,7 +11,9 @@ com\example\cqrscore\commands\BaseCommand.class
 com\example\cqrscore\handlers\EventSourcingHandler.class
 com\example\cqrscore\events\EventModel.class
 com\example\cqrscore\exception\AggregateNotFoundException.class
+com\example\cqrscore\infrastructure\QueryDispatcher.class
 com\example\cqrscore\domain\BaseEntity.class
 com\example\cqrscore\producers\EventProducer.class
 com\example\cqrscore\infrastructure\EventStore.class
+com\example\cqrscore\queries\QueryHandler.class
 com\example\cqrscore\domain\AggregateRoot.class

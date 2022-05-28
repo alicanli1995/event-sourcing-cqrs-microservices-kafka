@@ -11,8 +11,6 @@ V
 &bank-management/account-domain/pom.xml,2\e\2e77b132c0228e4df9cdbf2bc79453170408e9ae
 U
 %bank-management/account-query/pom.xml,b\e\bef8da2abed23f06a44f027b884ecd48fe9f61bd
-—
-gbank-management/account-domain/src/main/java/com/example/accountdomain/events/FundsWithdrawedEvent.java,5\f\5f190c3be931fc266af8b33f897f3fe06f39090b
 [
 +bank-management/account-cmd/account-cmd.iml,3\3\331b3208703fdab1e8b98eaba38209040566597d
 S
@@ -25,9 +23,5 @@ G
 Pcqrs-core/src/main/java/com/example/cqrscore/exception/ConcurrencyException.java,b\3\b383b238c4e1e830df6c4f5dea1be65eb3ffa268
 †
 Vcqrs-core/src/main/java/com/example/cqrscore/exception/AggregateNotFoundException.java,9\c\9c93265c8c68f5b282434ff2cbccc3f632463b0a
-‘
-abank-management/account-cmd/src/main/java/com/example/accountcmd/api/commands/CommandHandler.java,7\0\7084a84961cfc5a8d3655c14b62a976ce95dba37
-–
-fbank-management/account-cmd/src/main/java/com/example/accountcmd/api/controller/OpenAccController.java,c\3\c3cb6ecb686e2e6c3cc840d479607b2fc8fda73e
 •
 ebank-management/account-domain/src/main/java/com/example/accountdomain/events/AccountOpenedEvent.java,b\6\b6b47e9562e0ec20297d623b0375c4bc9e31abe6

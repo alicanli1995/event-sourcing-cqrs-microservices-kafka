@@ -5,6 +5,7 @@ import com.example.cqrscore.domain.AggregateRoot;
 import com.example.cqrscore.events.BaseEvent;
 import com.example.cqrscore.handlers.EventSourcingHandler;
 import com.example.cqrscore.infrastructure.EventStore;
+import com.example.cqrscore.producers.EventProducer;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Service;
@@ -17,6 +18,7 @@ import java.util.Comparator;
 public class AccountEventSourcingHandler implements EventSourcingHandler<AccountAggregate> {
 
     private final EventStore eventStore;
+    private final EventProducer eventProducer;
 
     @Override
     public void save(AggregateRoot aggregateRoot) {
@@ -36,5 +38,18 @@ public class AccountEventSourcingHandler implements EventSourcingHandler<Account
             aggregate.setVersion(latestVersion.get());
         }
         return aggregate;
+    }
+
+    @Override
+    public void republishEvents() {
+        var aggregateIds = eventStore.getAggregateIds();
+        for (var  aggregateId : aggregateIds){
+            var aggregate = getById(aggregateId);
+            if (!aggregate.getIsActive()) continue;;
+            var events = eventStore.getEvents(aggregateId);
+            for (var event : events){
+                eventProducer.produce(event.getClass().getSimpleName(),event);
+            }
+        }
     }
 }

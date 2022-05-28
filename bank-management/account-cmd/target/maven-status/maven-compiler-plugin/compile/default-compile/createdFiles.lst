@@ -1,4 +1,6 @@
+com\example\accountcmd\api\commands\RestoreReadDbCommand.class
 com\example\accountcmd\api\commands\WithdrawFundsCommand.class
+com\example\accountcmd\api\dto\OpenAccResponse$OpenAccResponseBuilderImpl.class
 com\example\accountcmd\domain\EventStoreRepository.class
 com\example\accountcmd\infrastructure\AccountEventSourcingHandler.class
 com\example\accountcmd\api\commands\CloseAccuntCommand.class
@@ -12,6 +14,7 @@ com\example\accountcmd\api\commands\OpenAccountCommand.class
 com\example\accountcmd\domain\AccountAggregate.class
 com\example\accountcmd\api\controller\OpenAccController.class
 com\example\accountcmd\infrastructure\AccountCommandDispatcher.class
+com\example\accountcmd\api\controller\RestoreDbController.class
 com\example\accountcmd\api\commands\CommandHandler.class
 com\example\accountcmd\api\controller\WithdrawFundsController.class
 com\example\accountcmd\AccountCmdApplication.class

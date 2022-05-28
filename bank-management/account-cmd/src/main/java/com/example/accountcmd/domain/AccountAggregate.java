@@ -18,6 +18,8 @@ import java.util.Date;
 public class AccountAggregate extends AggregateRoot {
 
 
+    @Getter
+    @Setter
     private Boolean isActive;
     @Getter
     @Setter

@@ -1,6 +1,8 @@
 com\example\accountdomain\dto\BaseResponse.class
 com\example\accountdomain\events\AccountOpenedEvent$AccountOpenedEventBuilder.class
 com\example\accountdomain\events\AccountClosedEvent.class
+com\example\accountdomain\dto\BaseResponse$BaseResponseBuilderImpl.class
+com\example\accountdomain\dto\BaseResponse$BaseResponseBuilder.class
 com\example\accountdomain\events\FundsWithdrawedEvent$FundsWithdrawedEventBuilder.class
 com\example\accountdomain\events\FundsDepositedEvent$FundsDepositedEventBuilderImpl.class
 com\example\accountdomain\events\FundsDepositedEvent.class

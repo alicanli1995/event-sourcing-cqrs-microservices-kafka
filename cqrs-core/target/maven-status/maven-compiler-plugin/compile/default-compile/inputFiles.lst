@@ -1,5 +1,7 @@
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\infrastructure\CommandDispatcher.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\queries\BaseQuery.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\infrastructure\EventStore.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\queries\QueryHandler.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\events\BaseEvent.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\events\EventModel.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\producers\EventProducer.java
@@ -9,5 +11,6 @@ C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\messages\Message.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\handlers\EventSourcingHandler.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\exception\ConcurrencyException.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\infrastructure\QueryDispatcher.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\exception\AggregateNotFoundException.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\cqrs-core\src\main\java\com\example\cqrscore\domain\BaseEntity.java
