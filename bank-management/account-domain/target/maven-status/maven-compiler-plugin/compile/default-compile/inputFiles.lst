@@ -1,5 +1,6 @@
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\bank-management\account-domain\src\main\java\com\example\accountdomain\events\FundsWithdrawedEvent.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\bank-management\account-domain\src\main\java\com\example\accountdomain\events\AccountOpenedEvent.java
+C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\bank-management\account-domain\src\main\java\com\example\accountdomain\dto\BaseResponse.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\bank-management\account-domain\src\main\java\com\example\accountdomain\events\FundsDepositedEvent.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\bank-management\account-domain\src\main\java\com\example\accountdomain\events\AccountClosedEvent.java
 C:\Users\Ali\Desktop\event-sourcing-cqrs-microservices-kafka\bank-management\account-domain\src\main\java\com\example\accountdomain\dto\AccountType.java

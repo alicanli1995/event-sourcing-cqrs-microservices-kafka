@@ -10,5 +10,7 @@ com\example\cqrscore\commands\BaseCommand.class
 com\example\cqrscore\handlers\EventSourcingHandler.class
 com\example\cqrscore\events\EventModel.class
 com\example\cqrscore\exception\AggregateNotFoundException.class
+com\example\cqrscore\domain\BaseEntity.class
+com\example\cqrscore\producers\EventProducer.class
 com\example\cqrscore\infrastructure\EventStore.class
 com\example\cqrscore\domain\AggregateRoot.class

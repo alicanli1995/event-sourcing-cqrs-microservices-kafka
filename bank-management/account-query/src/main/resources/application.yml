@@ -15,7 +15,7 @@ spring:
     password: trainingcqrs
   kafka:
     listener:
-      ack-mode: manual_immediate
+      ack-mode: MANUAL_IMMEDIATE
     consumer:
       bootstrap-servers: localhost:9092
       group-id: bankaccConsumer
@@ -24,6 +24,9 @@ spring:
       value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
       properties:
         spring:
+          deserializer:
+            value:
+              delegate.class: org.springframework.kafka.support.serializer.JsonDeserializer
           json:
             trusted:
               packages: '*'

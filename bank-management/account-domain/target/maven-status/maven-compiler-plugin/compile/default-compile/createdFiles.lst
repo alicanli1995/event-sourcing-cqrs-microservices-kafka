@@ -1,3 +1,4 @@
+com\example\accountdomain\dto\BaseResponse.class
 com\example\accountdomain\events\AccountOpenedEvent$AccountOpenedEventBuilder.class
 com\example\accountdomain\events\AccountClosedEvent.class
 com\example\accountdomain\events\FundsWithdrawedEvent$FundsWithdrawedEventBuilder.class

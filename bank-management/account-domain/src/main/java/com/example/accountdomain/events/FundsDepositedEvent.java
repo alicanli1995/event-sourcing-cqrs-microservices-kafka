@@ -14,7 +14,6 @@ import java.math.BigDecimal;
 @AllArgsConstructor
 @SuperBuilder
 public class FundsDepositedEvent extends BaseEvent {
-
     private BigDecimal amount;
 
 }

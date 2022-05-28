@@ -3,7 +3,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/cqrs-core/pom.xml" />
         <option value="$PROJECT_DIR$/bank-management/pom.xml" />
         <option value="$PROJECT_DIR$/bank-management/cqrs-core/pom.xml" />
         <option value="$PROJECT_DIR$/bank-management/account-domain/pom.xml" />
